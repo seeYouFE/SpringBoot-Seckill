@@ -1,4 +1,5 @@
 # SpringBoot-Seckill
 
 
-正在设计中
+本项目将由牛客网4人合作
+
